@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+/* ----------------------------------------Logo*/
+.brand-logo h2{
+    text-transform: uppercase;
+    letter-spacing:6px;
+    color:#fa3802;
+    font-family: Roboto;
+    font-weight: 300;
+
+}
+
+.brand-logo{
+             margin-left: 10px;
+             padding: none;
+
+}
+
+/* ----------------------------------------Nav-Bar */
+
+.collapse navbar-collapse{
+            display: block;
+            width:20%;
+}
+
+li a:hover {
+            background-color: #fa3802;
+}
+
+/* ----------------------------------------NavBar button */
+
+.button-icon{
+    border: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+.button-icon span{
+    background-color: #fa3802;
+            color: #000;
+            border: none;
+            padding: none;
+            margin: none;
+            height: 55px;
+            width: 55px;
+}
+
+.navbar-toggler{
+    padding:0;
+    border: none;
+    margin: 0;
+}
+
+
+ 
