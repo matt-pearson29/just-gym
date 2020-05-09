@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
+
 /* ----------------------------------------Logo*/
 .brand-logo h2{
     text-transform: uppercase;
@@ -23,7 +24,12 @@
             width:20%;
 }
 
-li a:hover {
+.navbar-nav li a{
+    text-align: center;
+    padding-right: 10px;
+    margin-right: 10px;
+}
+.navbar-nav li a:hover {
             background-color: #fa3802;
 }
 
@@ -37,13 +43,20 @@ li a:hover {
 }
 
 .button-icon span{
-    background-color: #fa3802;
+    background-color: #fff;
             color: #000;
             border: none;
             padding: none;
             margin: none;
             height: 55px;
             width: 55px;
+            
+            
+}
+
+.button-icon span:hover{
+    background-color: #fa3802;
+            color: #fff;
 }
 
 .navbar-toggler{
@@ -53,4 +66,70 @@ li a:hover {
 }
 
 
- 
+/* ----------------------------------------Hero Image */
+#hero{
+    background: url(../images/treadmill.jpg)no-repeat center center;
+    height: 600px;
+    width: 100%;
+}
+
+
+/* ----------------------------------------Footer */
+footer{
+    background-color: #000;
+    color: #fff;
+    min-height: 120px;
+}
+
+#footer-details {
+padding: 20px;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+/* ----------------------------------------calendar download */
+
+.calendar-pdf i {
+font-size: 18px;
+color: #fafafa;
+text-align: center;
+padding-left: 5px;
+transition: all 0.35s ease-in-out;
+-moz-transition: all 0.35s ease-in-out;
+-webkit-transition: all 0.35s ease-in-out;
+-o-transition: all 0.35s ease-in-out;
+}
+
+.calendar-pdf i:hover {
+color: #fa3802;
+}
+
+/* ----------------------------------------social media links */
+
+.social-links li a i {
+width: 35px;
+height: 35px;
+padding: 12px 0;
+border-radius: 50%;
+font-size: 18px;
+line-height: 7px;
+text-align: center;
+color: #fff;
+background: #aaa9a9;
+transition: all 0.35s ease-in-out;
+-moz-transition: all 0.35s ease-in-out;
+-webkit-transition: all 0.35s ease-in-out;
+-o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+background: #fa3802;
+width: 35px;
+height: 35px;
+border-radius: 50%;
+}
+
+
+
