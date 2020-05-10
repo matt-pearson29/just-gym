@@ -2,20 +2,24 @@
 
 
 /* ----------------------------------------Logo*/
-.brand-logo h2{
+.brand-logo h1{
     text-transform: uppercase;
-    letter-spacing:6px;
+    letter-spacing:4px;
     color:#fa3802;
     font-family: Roboto;
     font-weight: 300;
+    width: 70%;
+    
 
 }
 
 .brand-logo{
-             margin-left: 10px;
+             margin-left: 5px;
              padding: none;
+             
 
 }
+
 
 /* ----------------------------------------Nav-Bar */
 
@@ -25,7 +29,7 @@
 }
 
 .navbar-nav li a{
-    text-align: center;
+    text-align: left;
     padding-right: 10px;
     margin-right: 10px;
 }
@@ -71,6 +75,49 @@
     background: url(../images/treadmill.jpg)no-repeat center center;
     height: 600px;
     width: 100%;
+     animation-name: hero-zoom;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+
+}
+
+#hero-outer{
+    height:600px;
+    width: 100%;
+    overflow:hidden;
+    position: relative;
+}
+
+@keyframes hero-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
+}
+
+/* ----------------------------------------Images */
+
+#img1{
+clear: both;
+line-height:0; 
+column-gap: 0px;
+column-count: 4;
+}
+
+#img1-img{
+width: 50%;
+}
+
+#img1{
+column-count: 3;
+}
+}
+@media screen and(max-width:800px){
+#img1{
+column-count: 2;
+}
 }
 
 
