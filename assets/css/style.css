@@ -103,22 +103,153 @@
 clear: both;
 line-height:0; 
 column-gap: 0px;
-column-count: 4;
 }
 
-#img1-img{
-width: 50%;
+#img1 img{
+width: 100%;
+height: 100%;
 }
 
-#img1{
-column-count: 3;
+/* ----------------------------------------Contact Form */
+
+#form-img{
+     
+  background: url('../images/laying.jpg')center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  clear: both;
+  line-height:0; 
+  column-gap: 0px;
+  height: 600px;
+  width: 100%;
 }
+
+#form-header{
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    text-align: center;
+    color: #fa3802;
+    text-transform: uppercase;
 }
-@media screen and(max-width:800px){
-#img1{
-column-count: 2;
+
+#packages{
+    text-transform: uppercase;
+    font-family: "Exo",sans-serif;
+    font-weight: 300;
 }
+
+.center-form {
+padding-top: 10px;
+margin: 0 auto;
+width: 70%;
+color: #fa3802;
+background-color: rgba(0, 0, 0,.6);
+height: 460px;
+padding: 15px,0,0,10px;
+top: 10px;
+left: 1.5%;
+position: relative;
+ font-family: "Exo", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+
+
+    
 }
+form{
+    border: none;
+    padding-left:40px;
+    padding-right: 20px; 
+}
+
+#bronze #silver #gold{
+    font-size: 15px;
+    text-align: left;
+}
+
+#fname{
+    width: 65%;
+    padding-left: 3px;
+    background-color: transparent;
+    color: #fa3802;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fa3802;
+    border-radius: 2px;
+    font-size: 15px;
+    
+}
+
+#lname{
+    width: 65%;
+    padding-left: 3px;
+    background-color: transparent;
+    color: #fa3802;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fa3802;
+    border-radius: 2px;
+    font-size: 15px;
+}
+
+#hname{
+    width: 65%;
+    padding-left: 3px;
+    background-color: transparent;
+    color: #fa3802;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fa3802;
+    border-radius: 2px;
+    font-size: 15px;
+}
+
+#pcode{
+    width: 35%;
+     padding-left: 3px;
+    background-color: transparent;
+    color: #fa3802;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fa3802;
+    border-radius: 2px;
+    font-size: 15px;
+}
+
+#emailaddress{
+     width: 65%;
+    padding-left: 3px;
+    background-color: transparent;
+    color: #fa3802;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fa3802;
+    border-radius: 2px;
+    font-size: 15px;
+}
+
+#further{
+    width: 85%;
+    padding-left: 3px;
+    background-color: transparent;
+    color: #fa3802;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fa3802;
+    border-radius: 2px;
+    font-size: 15px;
+}
+
+#bsubmit{
+    background-color: transparent;
+    color: #fa3802;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fa3802;
+    border-radius: 2px;
+    font-size: 15px;
+}
+
+
+
 
 
 /* ----------------------------------------Footer */
