@@ -71,22 +71,8 @@
 
 
 /* ----------------------------------------Hero Image */
-#hero{
-    background: url(../images/treadmill.jpg)no-repeat center center;
-    height: 600px;
-    width: 100%;
-     animation-name: hero-zoom;
-    animation-duration: 3s;
-    animation-fill-mode: forwards;
 
-}
 
-#hero-outer{
-    height:600px;
-    width: 100%;
-    overflow:hidden;
-    position: relative;
-}
 
 @keyframes hero-zoom {
     from{
@@ -96,6 +82,61 @@
         transform: scale(1.1);
     }
 }
+
+#container-outer{
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+
+}
+
+
+#container img {
+height: 600px;
+width: 100%;
+position: relative;
+overflow: hidden;
+animation-name: hero-zoom;
+animation-duration: 3s;
+animation-fill-mode: forwards;
+
+}
+
+
+
+/* Bottom right text */
+.text-block {
+    font-family: "Exo",sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    position: absolute;
+        top: 25px;
+    right:50%;
+    background-color:rgba(0, 0, 0,.4);
+    color: #fa3802;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+.text-block h6{
+    text-align: center;
+}
+
+.right{
+    text-align: right;
+}
+
+.text-block hr{
+    border: 1px solid #fa3802;
+    width: 50%;
+}
+
+.text-block p{
+    font-size: 10px;
+    text-align: center;
+}
+
 
 /* ----------------------------------------Images */
 
