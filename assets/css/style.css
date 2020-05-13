@@ -84,7 +84,7 @@
 }
 
 #container-outer{
-    height: 600px;
+    height: 700px;
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -93,7 +93,7 @@
 
 
 #container img {
-height: 600px;
+height: 700px;
 width: 100%;
 position: relative;
 overflow: hidden;
@@ -105,19 +105,24 @@ animation-fill-mode: forwards;
 
 
 
-/* Bottom right text */
+/* Hero cover text */
 .text-block {
     font-family: "Exo",sans-serif;
     font-weight: 600;
     font-size: 15px;
     position: absolute;
         top: 25px;
-    left:40px;
+    left:60px;
     background-color:rgba(0, 0, 0,.4);
     color: #fa3802;
     padding-left: 10px;
     padding-right: 10px;
+     width:50%;
     
+    
+}
+.text-block td{
+    text-align: center;
 }
 .text-block h6{
     text-align: center;
@@ -134,7 +139,7 @@ animation-fill-mode: forwards;
 
 .text-block p{
     font-size: 13px;
-    text-align: center;
+    text-align: left;
 }
 
 
@@ -287,6 +292,60 @@ form{
     border: 1px solid #fa3802;
     border-radius: 2px;
     font-size: 15px;
+}
+
+
+/* ----------------------------------------Classes */
+
+.classes{
+background: url('../images/barbell3.jpg')center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  clear: both;
+  line-height:0; 
+  column-gap: 0px;
+  height: 700px;
+  width: 100%;
+}
+
+/* ----------------------------------------Classes overlay text */
+
+
+.text-block2 {
+    font-family: "Exo",sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    position: relative;
+        top: 30px;
+    left:100px;
+    background-color:rgba(0, 0, 0,.4);
+    color: #fa3802;
+    padding-left: 3px;
+    padding-right:3px;
+    padding-top:5px;
+    padding-bottom:5px;
+    width:40%;
+    max-height:250px;
+    display: block;
+}
+.text-block2 h6{
+    text-align: center;
+	color:#fa3802;
+}
+
+.text-block2 i{
+    text-align: center;
+        color:#fa3802;
+}
+
+.text-block2 hr{
+    border: 1px solid #fa3802;
+    width: 50%;
+}
+
+.text-block2 p{
+    font-size: 13px;
+    text-align: center;
 }
 
 
