@@ -111,26 +111,23 @@ animation-fill-mode: forwards;
     font-weight: 600;
     font-size: 15px;
     position: absolute;
-        top: 25px;
-    left:60px;
-    background-color:rgba(0, 0, 0,.4);
+        top: 30px;
+    left:100px;
+    background-color:rgba(0, 0, 0,.6);
     color: #fa3802;
-    padding-left: 10px;
-    padding-right: 10px;
-     width:50%;
+    padding-left: 5px;
+    padding-right: 5px;
+     width:40%;
+    line-height:0;
     
     
 }
-.text-block td{
-    text-align: center;
-}
+
 .text-block h6{
     text-align: center;
 }
 
-.right{
-    text-align: right;
-}
+
 
 .text-block hr{
     border: 1px solid #fa3802;
@@ -139,7 +136,7 @@ animation-fill-mode: forwards;
 
 .text-block p{
     font-size: 13px;
-    text-align: left;
+    text-align: center;
 }
 
 
@@ -294,6 +291,71 @@ form{
     font-size: 15px;
 }
 
+/* ----------------------------------------Facilities */
+
+
+
+.facilities{
+  background-color: #dbdbd9;
+  background-repeat: no-repeat;
+  background-size: cover;
+  clear: both;
+  line-height:0; 
+  column-gap: 0px;
+  min-height: 100px;
+  width: 100%;
+  padding-bottom: 20px;
+}
+
+.facility{
+margin: 5px,5px,5px,5px,
+padding: 5px,10px,10px,5px;
+font-family:"Exo",sans-serif;
+font-weight: 300;
+text-align: center;
+color: #fa3802;
+}
+
+.facility i{
+padding-top: 10px;
+text-align: center;
+color: #fa3802;
+}
+
+.facility h4{
+font-family:"Exo",sans-serif;
+font-weight: 300;
+text-align: center;
+color: #fa3802;
+padding-bottom: 5px;
+}
+
+.facility p{
+padding-top: 10px;
+padding-bottom: 5px;
+text-align: center;
+color: #fa3802;
+
+}
+
+.facility div{
+padding-bottom: 10px;
+margin-bottom: 10px;
+}
+
+.img-thumbnail{
+height:100px;
+width: 100px;
+border-color: #fa3802;
+border-size: 1px;
+margin-bottom:15px;
+
+}
+
+artical{
+display: block;
+}
+
 
 /* ----------------------------------------Classes */
 
@@ -336,6 +398,7 @@ background: url('../images/barbell3.jpg')center;
 .text-block2 i{
     text-align: center;
         color:#fa3802;
+    padding-right: 2px;
 }
 
 .text-block2 hr{
@@ -357,6 +420,8 @@ footer{
     background-color: #000;
     color: #fff;
     min-height: 120px;
+    font-size: 13px;
+    padding-top: 10px;
 }
 
 #footer-details {
@@ -389,7 +454,7 @@ color: #fa3802;
 .social-links li a i {
 width: 35px;
 height: 35px;
-padding: 12px 0;
+padding: 15px 0;
 border-radius: 50%;
 font-size: 18px;
 line-height: 7px;
