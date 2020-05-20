@@ -18,55 +18,57 @@
 
 
 /* ----------------------------------------Nav-Bar */
+.btn{
+  color: #fff;
+}
 
-.collapse navbar-collapse{
-                            display: block;
-                            width:20%;
-                            }
+.btn:hover{
+    color: #fff;
+}
 
-.navbar-nav li a{
-                    text-align: left;
-                    padding-right: 10px;
-                    margin-right: 10px;
-                    }
+.dropdown{
+    
+	right: 100px;
+}
 
-.navbar-nav li a:hover {
-                        background-color: #fa3802;
-                        }
+.dropdown-menu a{
+    
+    text-align: left;
+    padding-left: 5px;
+    margin: 0;
+}
+.dropdown-menu a:hover {
+            background-color: #fa3802;
+}
 
 /* ----------------------------------------NavBar button */
 
 .button-icon{
-                border: none;
-                margin: 0;
-                padding: 0;
-                }
+    border: none;
+    margin: 0;
+    padding: 0;
+    height: 35px;
+    width: 35px;
+
+}
 
 .button-icon span{
-                    background-color: #fff;
-                    color: #000;
-                    border: none;
-                    padding: 0;
-                    margin: 0;
-                    height: 55px;
-                    width: 55px;
-                    }
+    background-color: #fff;
+            color: #000;
+            border: none;
+            padding: 0;
+            margin: 0;
+            height: 55px;
+            width: 55px;
+            
+            
+}
 
 .button-icon span:hover{
-                        background-color: #fa3802;
-                        color: #fff;
-                        }
-
-.navbar-toggler{
-                padding:0;
-                border: none;
-                margin: 0;
-                }
-
-
+    background-color: #fa3802;
+            color: #fff;
+}
 /* ----------------------------------------Hero Image */
-
-
 
 @keyframes hero-zoom {
                     from{
@@ -334,36 +336,46 @@ form{
 
 /* ----------------------------------------Classes */
 
-.classes{
-            background: url('../images/barbell3.jpg')center;
-            background-repeat: no-repeat;
-            background-size: cover;
-            clear: both;
-            line-height:0; 
-            column-gap: 0px;
-            height: 700px;
-            width: 100%;
-            }
+#container2-img {
+                background: url('../images/barbell3.jpg')no-repeat center center;
+                height: 750px;
+                width: 100%;
+}
+
+.container2-img h6{
+    padding-top: 10px;
+    color:#fa3802;
+    text-align: center;
+    text-transform: uppercase;
+}
+
 
 /* ----------------------------------------Classes overlay text */
 
 
 .text-block2 {
+                display: flex;
+                flex: nowrap;
+                flex-direction: column;
+                justify-content: center;
                 font-family: "Exo",sans-serif;
                 font-weight: 600;
-                font-size: 15px;
+                font-size: 13px;
                 position: relative;
-                    top: 30px;
-                left:100px;
+                    top: 5%;
+                    bottom: 2%;
+                left:25%;
                 background-color:rgba(0, 0, 0,.4);
                 color: #fa3802;
-                padding-left: 3px;
-                padding-right:3px;
+                padding-left: 5px;
+                padding-right: 5px;
+                width:50%;
+                line-height:10px;
                 padding-top:5px;
                 padding-bottom:5px;
-                width:40%;
-                max-height:250px;
-                display: block;
+                height:750px;
+                text-align: center;
+                
                 }
 
 .text-block2 h6{
@@ -372,7 +384,7 @@ form{
                 }
 
 .text-block2 i{
-                text-align: center;
+            text-align: center;
                     color:#fa3802;
                 padding-right: 2px;
                 }
@@ -383,7 +395,7 @@ form{
                 }
 
 .text-block2 p{
-                font-size: 13px;
+                font-size: 11px;
                 text-align: center;
                 }
 
