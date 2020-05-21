@@ -89,7 +89,10 @@ PAGES](https://matt-pearson29.github.io/just-gym/).
 ### Deploy using github pages
 
 1. from the repsitory you whan to deploy click on settings.
-2. 
+2. scroll down the page untill you see the github pages section.
+3. from under source select master branch.
+4. this will auto save.
+5. scroll back to the github pages section and your URL will be displayed.
 
 The differences between the development stage of this site and the deployed site are,
  - the Nav bar is now a dropdown toggler instead of a toggler bar.
