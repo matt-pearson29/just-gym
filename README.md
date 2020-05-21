@@ -30,15 +30,13 @@ A membership and contact form which has requiered fields, also radio buttons for
 On submition of the form a page displaying your summited data, is displayed letting you know your information has been<br> recived,and the form filled out correctly.
 
 ### Features Left to Implement
-- Another feature idea
+Interactive Maps to be added to the contact page, to enable new members find directions to the gym, from there current location.
 
-## Technologies Used
+## TECHNOLOGIES USED
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
-
+[HTML](http://html.com) Used because all sites need to be built upon a base of HTML code.
+[CSS](https://www.w3.org/Style/CSS/Overview.en.html) Used to style the pages of the site for good UI/UX.
+[BOOTSTRAP](https://getbootstrap.com/) Used for ease of actions and layout.
 
 ## Testing
 
