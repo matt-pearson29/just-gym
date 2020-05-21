@@ -47,10 +47,39 @@ For the testing of this site, the tests carried out were centred around the size
 The browser being used and that the featurs of the pages acted correctly.See the results of the tests hear[RESULTS](https://github.com/matt-pearson29/just-gym/blob/master/documents/testing%20results.pdf)
 
 ##### Index page.
- 1. goto the nav links on the index page.
- 2. select each link intern for the diffrent pages.
+ 1. goto the nav links on the page.
+ 2. select each link inturn for the diffrent pages.
  3. from the other pages select the logo to link back to the index page.
- 4. select the download link for the 2020 calendar,this should show the calendar in a separte tab.
+ 4. select the download link for the 2020 calendar,this should show the calendar in a new page.
+ 5. goto the footer on the page.
+ 6. click on the download icon and this should open the 2020 calendar in a new page.
+ 7. then click inturn on each of the social media icons to open there home pages in a new page.
+
+##### Gallery page.
+The same set of test are to be carried out for this page
+ 1. goto the nav links on the page.
+ 2. select each link inturn for the diffrent pages.
+ 3. from the other pages select the logo to link back to the index page.
+ 4. select the download link for the 2020 calendar,this should show the calendar in a new page.
+ 5. goto the footer on the page.
+ 6. click on the download icon and this should open the 2020 calendar in a new page.
+ 7. then click inturn on each of the social media icons to open there home pages in a new page.
+ 
+##### Contact page.
+The first set of test on this page are the same as for the other pages.
+ 1. goto the nav links on the page.
+ 2. select each link inturn for the diffrent pages.
+ 3. from the other pages select the logo to link back to the index page.
+ 4. select the download link for the 2020 calendar,this should show the calendar in a new page.
+ 5. goto the footer on the page.
+ 6. click on the download icon and this should open the 2020 calendar in a new page.
+ 7. then click inturn on each of the social media icons to open there home pages in a new page.
+ 
+The next set of test are for the membership form.
+ 1. select the type of membership requiered.
+ 2. fill in all the other field.
+ 3. submit the form and a new page should open with your summited data on.
+ 4. run the same test again but leave out one requiered field each time to see an error message.
 ## Deployment
 
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
