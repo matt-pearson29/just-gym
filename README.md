@@ -8,13 +8,13 @@ The UI/UX needed to be easy to navigate while being informative about the compan
 ### User Stories
 
 The project was started by looking at the needs and requirements, for the owners of the Business and its members.
-Once this had been done the user stories were added to a project board.[user stories](https://github.com/matt-pearson29/just-gym/blob/master/documents/userstories.pdf)
+Once this had been done the user stories were added to a project board.[user stories](https://github.com/matt-pearson29/just-gym/blob/master/mockups/userstories.pdf)
 
 ### Wire Frame Mock ups
 
 After the user stories had been completed, Wire frame mock ups were designed for the site and agreed with the owners, and a commitee of members.
-[desktop](https://github.com/matt-pearson29/just-gym/blob/master/documents/Just%20Gym%20Desktop.pdf)
-[mobile](https://github.com/matt-pearson29/just-gym/blob/master/documents/Just%20Gym%20Mobile.pdf)
+[desktop](https://github.com/matt-pearson29/just-gym/blob/master/mockups/Just%20Gym%20Desktop.pdf)
+[mobile](https://github.com/matt-pearson29/just-gym/blob/master/mockups/Just%20Gym%20Mobile.pdf)
 
 ## FEATURES
 
@@ -44,7 +44,7 @@ PAGES](https://matt-pearson29.github.io/just-gym/).
 ## TESTING
 
 For the testing of this site, the tests carried out were centred around the size of the media being used.
-The browser being used and that the featurs of the pages acted correctly.See the results of the tests hear[RESULTS](https://github.com/matt-pearson29/just-gym/blob/master/documents/testing%20results.pdf)
+The browser being used and that the featurs of the pages acted correctly.See the results of the tests hear[RESULTS](https://github.com/matt-pearson29/just-gym/blob/master/testing/testing%20results.pdf)
 
 ##### Index page.
  1. goto the nav links on the page.
@@ -86,25 +86,29 @@ The next set of test are for the membership form.
 The code was written using the online IDE editor [GITPOD](https://www.gitpod.io/),and has been hosted with [GITHUB](https://github.com/matt-pearson29/just-gym)repository and [GITHUB
 PAGES](https://matt-pearson29.github.io/just-gym/).
 
-The differences between the development site and the deployed site are,
+The differences between the development stage of this site and the deployed site are,
  - the Nav bar is now a dropdown toggler instead of a toggler bar.
  - the about section is now overlayed on the hero image and the opening time are on the footer.
  - the membership form fields have been made smaller.
 
 ## CREDITS
 
-### Images
+### Content
+
+No text for this site was copied, the text all came from myself.
+
+### Media
 
 The images for the site were obtained from:
- - Pexels
- - Pixabay
- - Blank-calendar<br>
+ - [Pexels](https://www.pexels.com/)
+ - [Pixabay](https://pixabay.com/)
+ - [Blank-calendar](https://www.blank-calendar.com/)<br>
  
  All images are stock images and free for commercial use.
 
 ### Acknowledgements
 
-It gives me great pleasure to thank __Precious ijege__ for his direction and encourgment throughout this project.<br>
-It also gives me great pleasure to thank the __Code instatute__ for giving me the abbility to carry out such a project.
+It gives me great pleasure to thank [Precious ijege](https://www.linkedin.com/in/precious-ijege-908a00168/) for his direction and encourgment throughout this project.<br>
+It also gives me great pleasure to thank the [Code instatute](https://codeinstitute.net/) for giving me the abbility to carry out such a project.
 
 
