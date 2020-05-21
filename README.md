@@ -21,12 +21,12 @@ After the user stories had been completed, Wire frame mock ups were designed for
  
 ### Existing Features
 
-Site wide header and Navigation bar for familiarity and ease of movment, the Logo to be a link to the index page.
+1. Site wide header and Navigation bar for familiarity and ease of movment, the Logo to be a link to the index page.
 The Nav bar uses a dropdown toggler button with a dropdown list of links across all media.
 
-Site wide Footer bar that contains a download link to the calendar and the links to social media sites.
+2. Site wide Footer bar that contains a download link to the calendar and the links to social media sites.
 
-A membership and contact form which has requiered fields, also radio buttons for membership choise.
+3. A membership and contact form which has requiered fields, also radio buttons for membership choise.
 On submition of the form a page displaying your summited data, is displayed letting you know your information has been<br> recived,and the form filled out correctly.
 
 ### Features Left to Implement
@@ -34,9 +34,9 @@ Interactive Maps to be added to the contact page, to enable new members find dir
 
 ## TECHNOLOGIES USED
 
-[HTML](http://html.com) <br>Used because all sites need to be built upon a base of HTML code.<br>
-[CSS](https://www.w3.org/Style/CSS/Overview.en.html)<br> Used to style the pages of the site for good UI/UX.<br>
-[BOOTSTRAP](https://getbootstrap.com/)<br> Used for ease of actions and layout.
+- [HTML](http://html.com) <br>Used because all sites need to be built upon a base of HTML code.<br>
+- [CSS](https://www.w3.org/Style/CSS/Overview.en.html)<br> Used to style the pages of the site for good UI/UX.<br>
+- [BOOTSTRAP](https://getbootstrap.com/)<br> Used for ease of actions and layout.
 
 The code was written using the online IDE editor [GITPOD](https://www.gitpod.io/),and has been hosted with [GITHUB](https://github.com/matt-pearson29/just-gym)repository and [GITHUB
 PAGES](https://matt-pearson29.github.io/just-gym/).
