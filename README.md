@@ -34,8 +34,8 @@ Interactive Maps to be added to the contact page, to enable new members find dir
 
 ## TECHNOLOGIES USED
 
-[HTML](http://html.com) <br>Used because all sites need to be built upon a base of HTML code.
-[CSS](https://www.w3.org/Style/CSS/Overview.en.html)<br> Used to style the pages of the site for good UI/UX.
+[HTML](http://html.com) <br>Used because all sites need to be built upon a base of HTML code.<br>
+[CSS](https://www.w3.org/Style/CSS/Overview.en.html)<br> Used to style the pages of the site for good UI/UX.<br>
 [BOOTSTRAP](https://getbootstrap.com/)<br> Used for ease of actions and layout.
 
 ## Testing
