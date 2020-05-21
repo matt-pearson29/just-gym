@@ -3,30 +3,31 @@
 The project was to build a responsive site that acts the same on all devices.
 The UI/UX needed to be easy to navigate while being informative about the company and how to contact and locate them.
  
-## UX
+## UI/UX
  
 ### User Stories
 
 The project was started by looking at the needs and requirements, for the owners of the Business and its members.
-Once this had been done the user stories were added to a project board.(https://github.com/matt-pearson29/just-gym/blob/master/documents/userstories.pdf)
+Once this had been done the user stories were added to a project board.[user stories](https://github.com/matt-pearson29/just-gym/blob/master/documents/userstories.pdf)
 
 ### Wire Frame Mock ups
 
-After the user stories had been completed, wire frame mock ups were designed and agreed with the owners, and a commitee of members.
-(https://github.com/matt-pearson29/just-gym/blob/master/documents/Just%20Gym%20Desktop.pdf)
-(https://github.com/matt-pearson29/just-gym/blob/master/documents/Just%20Gym%20Mobile.pdf)
+After the user stories had been completed, Wire frame mock ups were designed for the site and agreed with the owners, and a commitee of members.
+[desktop](https://github.com/matt-pearson29/just-gym/blob/master/documents/Just%20Gym%20Desktop.pdf)
+[mobile](https://github.com/matt-pearson29/just-gym/blob/master/documents/Just%20Gym%20Mobile.pdf)
 
-## Features
+## FEATURES
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
  
 ### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+Site wide header and Navigation bar for familiarity and ease of movment, the Logo to be a link to the index page.
+The Nav bar uses a dropdown toggler button with a dropdown list of links across all media.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+Site wide Footer bar that contains a download link to the calendar and the links to social media sites.
+
+A membership and contact form which has requiered fields, also radio buttons for membership choise.
+On submition of the form a page displaying your summited data, is displayed letting you know your information has been<br> recived,and the form filled out correctly.
 
 ### Features Left to Implement
 - Another feature idea
