@@ -46,7 +46,7 @@ PAGES](https://matt-pearson29.github.io/just-gym/).
 For the testing of this site, the tests carried out were centred around the size of the media being used.
 The browser being used and that the featurs of the pages acted correctly.See the results of the tests hear[RESULTS](https://github.com/matt-pearson29/just-gym/blob/master/documents/testing%20results.pdf)
 
-#####Index page.
+##### Index page.
  1. goto the nav links on the index page.
  2. select each link intern for the diffrent pages.
  3. from the other pages select the logo to link back to the index page.
