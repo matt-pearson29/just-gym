@@ -53,7 +53,7 @@
 <section class="container-fluid">
     <div class="row" id="form">
      <div class="col-md-6">
-     <iframe id="some" class="well well-2 col-xs-12 col-sm-12 col-md-12" height="450"
+     <iframe id="maps" class="map map-2 col-xs-12 col-sm-12 col-md-12" height="450"
         src="https://www.google.com/maps/embed?api=1&origin=Space+Needle+Seattle+WA&destination=Pike+Place+Market+Seattle+WA&travelmode=bicycling"></iframe>
      
      </div>
@@ -86,7 +86,7 @@
 
 <!---FOOTER-->
 
-<footer class="container-fluid">
+    <footer class="container-fluid">
     <div id="about" class="row">
     <div class="col-sm-4">
             <h5 class="uppercase">opening times</h5>
@@ -154,17 +154,6 @@
         </ul>
     </div>
     </div>
-</footer>
-<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY&callback=myMap"></script>
-    <script>
-function myMap() {
-var mapProp= {
-  center:new google.maps.LatLng(51.508742,-0.120850),
-  zoom:5,
-};
-var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
-}
-</script>
-
+    </footer>
 </body>
 </html>
