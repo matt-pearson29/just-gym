@@ -87,20 +87,23 @@ The code was written using the online IDE editor [GITPOD](https://www.gitpod.io/
 PAGES](https://matt-pearson29.github.io/just-gym/).
 
 The differences between the development site and the deployed site are,
- . the Nav bar is now a dropdown toggler instead of a toggler bar.
- . the about section is now overlayed on the hero image and the opening time are on the footer.
- . the membership form fields have been made smaller.
+ - the Nav bar is now a dropdown toggler instead of a toggler bar.
+ - the about section is now overlayed on the hero image and the opening time are on the footer.
+ - the membership form fields have been made smaller.
 
 ## CREDITS
 
 ### Images
 
 The images for the site were obtained from:
- . Pexels
- . Pixabay
- . Blank-calendar
+ - Pexels
+ - Pixabay
+ - Blank-calendar
 All images are stock images and free for commercial use.
 
 ### Acknowledgements
+
+It gives me great pleasure to thank __Precious ijege__ for his direction and encourgment throughout this project.
+It also gives me great pleasure to thank the __Code instatute__ for giving me the abbility to carry out such a project.
 
 
