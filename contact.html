@@ -27,11 +27,11 @@
 
     <!---NAV BUTTON-->
 
-    <div class="button-icon">
+<div class="button-icon">
   <div class="dropdown">
     <button type="button" class="btn dropdown-toggle" data-toggle="dropdown">
- <span class="navbar-toggler-icon"></span>
-      </button>
+    <span class="navbar-toggler-icon"></span>
+    </button>
 
     <!-----------NAV LINKS MENU---------->
 
@@ -52,7 +52,10 @@
 
 <section class="container-fluid">
     <div class="row" id="form">
-    <div class="col p-0" id="form-img">
+     <div class="col-md-6" id="map">
+     <img src="assets/images/map.png" alt="map">
+     </div>
+    <div class="col-md-6 p-0" id="form-img">
             <h3 id="form-header"> signup for membership today.</h3>
     <div class="center-form">
         <form id="fields" action="https://formdump.codeinstitute.net/" target="_blank" method="post">
@@ -76,9 +79,10 @@
     </div>
         </form>
     </div>
+    
     </div>
     </div>
-</section>
+   </section>
 
 
 <!---FOOTER-->
@@ -152,5 +156,16 @@
     </div>
     </div>
 </footer>
+<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY&callback=myMap"></script>
+    <script>
+function myMap() {
+var mapProp= {
+  center:new google.maps.LatLng(51.508742,-0.120850),
+  zoom:5,
+};
+var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
+}
+</script>
+
 </body>
 </html>
