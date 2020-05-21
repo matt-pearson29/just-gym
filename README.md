@@ -38,6 +38,9 @@ Interactive Maps to be added to the contact page, to enable new members find dir
 [CSS](https://www.w3.org/Style/CSS/Overview.en.html)<br> Used to style the pages of the site for good UI/UX.<br>
 [BOOTSTRAP](https://getbootstrap.com/)<br> Used for ease of actions and layout.
 
+The code was written using the online IDE editor [GITPOD](https://www.gitpod.io/),and has been hosted with [GITHUB](https://github.com/matt-pearson29/just-gym)repository and [GITHUB
+PAGES](https://matt-pearson29.github.io/just-gym/).
+
 ## Testing
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
