@@ -98,8 +98,9 @@ The differences between the development site and the deployed site are,
 The images for the site were obtained from:
  - Pexels
  - Pixabay
- - Blank-calendar
-All images are stock images and free for commercial use.
+ - Blank-calendar<br>
+ 
+ All images are stock images and free for commercial use.
 
 ### Acknowledgements
 
