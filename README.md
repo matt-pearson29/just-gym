@@ -80,26 +80,27 @@ The next set of test are for the membership form.
  2. fill in all the other field.
  3. submit the form and a new page should open with your summited data on.
  4. run the same test again but leave out one requiered field each time to see an error message.
-## Deployment
+ 
+## DEPLOYMENT
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+The code was written using the online IDE editor [GITPOD](https://www.gitpod.io/),and has been hosted with [GITHUB](https://github.com/matt-pearson29/just-gym)repository and [GITHUB
+PAGES](https://matt-pearson29.github.io/just-gym/).
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
+The differences between the development site and the deployed site are,
+ . the Nav bar is now a dropdown toggler instead of a toggler bar.
+ . the about section is now overlayed on the hero image and the opening time are on the footer.
+ . the membership form fields have been made smaller.
 
-In addition, if it is not obvious, you should also describe how to run your code locally.
+## CREDITS
 
+### Images
 
-## Credits
-
-### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
-
-### Media
-- The photos used in this site were obtained from ...
+The images for the site were obtained from:
+ . Pexels
+ . Pixabay
+ . Blank-calendar
+All images are stock images and free for commercial use.
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+
