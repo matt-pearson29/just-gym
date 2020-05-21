@@ -86,6 +86,11 @@ The next set of test are for the membership form.
 The code was written using the online IDE editor [GITPOD](https://www.gitpod.io/),and has been hosted with [GITHUB](https://github.com/matt-pearson29/just-gym)repository and [GITHUB
 PAGES](https://matt-pearson29.github.io/just-gym/).
 
+### Deploy using github pages
+
+1. from the repsitory you whan to deploy click on settings.
+2. 
+
 The differences between the development stage of this site and the deployed site are,
  - the Nav bar is now a dropdown toggler instead of a toggler bar.
  - the about section is now overlayed on the hero image and the opening time are on the footer.
