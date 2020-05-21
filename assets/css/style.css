@@ -119,17 +119,17 @@
                 font-size: 15px;
                 position: relative;
                     top: 2%;
-                left:25%;
+                left:12%;
                 background-color:rgba(0, 0, 0,.6);
                 color: #fa3802;
                 padding-left: 5px;
                 padding-right: 5px;
-                width:50%;
+                width:70%;
                 line-height:30px;
                 }
 
 .text-block p{
-                font-size: 13px;
+                font-size: 18px;
                 text-align: center;
                 }
 
@@ -158,7 +158,7 @@
             clear: both;
             line-height:0; 
             column-gap: 0px;
-            height: 600px;
+            height: 450px;
             width: 100%;
             }
 
@@ -168,6 +168,7 @@
                 text-align: center;
                 color: #fa3802;
                 text-transform: uppercase;
+                padding-top: 15px;
                 }
 
 #packages{
@@ -176,34 +177,35 @@
             font-weight: 300;
             }
 .center-form {
-                padding-top: 10px;
+                padding-top: 0;
                 margin: 0 auto;
-                width: 55%;
+                width: 100%;
                 color: #fa3802;
-                height: 300px;
-                padding: 15px,0,0,10px;
+                height: 450px;
+                padding: 5px,0,0,5px;
                 top: 10px;
                 left: 1.5%;
                 position: relative;
                 font-family: "Exo", sans-serif;
                 font-weight: 300;
-                margin-top: 15px;
+                
                 }            
 
 form{
     
         border: none;
-        padding-left:40px;
+        padding-left:60px;
         padding-right: 20px; 
 }
 
+
 #bronze #silver #gold{
-                        font-size: 15px;
+                        font-size: 10px;
                         text-align: left;
                         }
 
-#fname{
-        width: 40%;
+#name{
+        width: 50%;
         padding-left: 3px;
         background-color: #fff;
         color: #fa3802;
@@ -215,7 +217,7 @@ form{
         }
 
 #lname{
-        width: 40%;
+        width: 50%;
         padding-left: 3px;
         background-color: #fff;
         color: #fa3802;
@@ -227,7 +229,7 @@ form{
         }
 
 #hname{
-        width: 40%;
+        width: 50%;
         padding-left: 3px;
         background-color: #fff;
         color: #fa3802;
@@ -239,7 +241,7 @@ form{
         }
 
 #pcode{
-        width: 15%;
+        width: 20%;
         padding-left: 3px;
         background-color: #fff;
         color: #fa3802;
@@ -251,7 +253,7 @@ form{
         }
 
 #emailaddress{
-                width: 40%;
+                width: 50%;
                 padding-left: 3px;
                 background-color: #fff;
                 color: #fa3802;
@@ -263,7 +265,7 @@ form{
                 }
 
 #further{
-            width: 60%;
+            width: 70%;
             padding-left: 3px;
             background-color: #fff;
             color: #fa3802;
@@ -276,10 +278,10 @@ form{
 #bsubmit{
             background-color: transparent;
             color: #fa3802;
-            margin: 5px 0 20px 0;
+            margin: 1px 0 1px 0;
             border: 1px solid #fa3802;
             border-radius: 2px;
-            font-size: 15px;
+            font-size: 11px;
 }
             
 /* ----------------------------------------Map */
@@ -376,12 +378,12 @@ form{
                 position: relative;
                     top: 5%;
                     bottom: 2%;
-                left:25%;
+                left:12%;
                 background-color:rgba(0, 0, 0,.4);
                 color: #fa3802;
                 padding-left: 5px;
                 padding-right: 5px;
-                width:50%;
+                width:70%;
                 line-height:10px;
                 padding-top:5px;
                 padding-bottom:5px;
