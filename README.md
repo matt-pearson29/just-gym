@@ -5,12 +5,16 @@ The UI/UX needed to be easy to navigate while being informative about the compan
  
 ## UX
  
-### USER STORIES
+### User Stories
 
 The project was started by looking at the needs and requirements, for the owners of the Business and its members.
 Once this had been done the user stories were added to a project board.(https://github.com/matt-pearson29/just-gym/blob/master/documents/userstories.pdf)
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+### Wire Frame Mock ups
+
+After the user stories had been completed, wire frame mock ups were designed and agreed with the owners, and a commitee of members.
+(https://github.com/matt-pearson29/just-gym/blob/master/documents/Just%20Gym%20Desktop.pdf)
+(https://github.com/matt-pearson29/just-gym/blob/master/documents/Just%20Gym%20Mobile.pdf)
 
 ## Features
 
