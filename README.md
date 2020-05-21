@@ -104,7 +104,7 @@ The images for the site were obtained from:
 
 ### Acknowledgements
 
-It gives me great pleasure to thank __Precious ijege__ for his direction and encourgment throughout this project.
+It gives me great pleasure to thank __Precious ijege__ for his direction and encourgment throughout this project.<br>
 It also gives me great pleasure to thank the __Code instatute__ for giving me the abbility to carry out such a project.
 
 
